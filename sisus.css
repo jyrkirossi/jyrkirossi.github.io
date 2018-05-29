@@ -1,0 +1,23 @@
+
+body {font-family:Verdana, Arial, sans-serif;}
+
+h1 {color:black; text-align:center; }
+h2 {color:black; letter-spacing:0.2em; text-align:center; }
+h3 {color:black; letter-spacing:0.2em; text-align:center; }
+h4 {color:black; text-align:left; }
+h5 {color:black; text-align:left; }
+
+.vpohja {background:white;
+	text-align:left; vertical-align:top;
+	color:black;
+	font-weight:bold;
+	font-size:90%;
+	margin:10px;}
+:link {color: #465B00;}
+:visited {color: #465B00;}
+
+div#tekstio {color:black; font-size:80%; font-weight:normal; margin:10px; }
+div#tekstijuu {color:black; font-size:80%; font-weight:bold; margin:80px; }
+.leiju {float:right; margin-right:1em; margin-left:1em }
+div#tekstix {color:black; font-size:110%; font-weight:bold; margin:20px; }
+div#tekstiy {color:black; font-size:70%; font-weight:bold; margin:20px; }

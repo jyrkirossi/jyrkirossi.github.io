@@ -1,0 +1,25 @@
+
+body {font-family:Verdana, Arial, sans-serif;}
+
+h1 {color:black; text-align:center; font-size:230%;}
+
+
+.mpohja {background: #678900;
+	text-align:left; vertical-align:top;
+	color:black;
+	font-weight:bold;
+	font-size:90%;
+	margin:10px;}
+:link {color:white;}
+:visited {color:white;}
+
+
+
+
+div#kansi {color:black; font-size:90%; margin:10px; }
+div#info {color:black; font-size:75%; font-weight:bold; margin:10px; }
+div#kansip {color:black; font-size:90%; font-weight:bold; margin:10px; }
+.pikkup	{float:right; margin-right:1em; margin-bottom:1em;}
+div#alio {color:black; font-size:70%;}
+div#jako {color:black; font-size:80%; font-weight:bold; margin:20px; }
+div#usko {color:white; font-size:90%; font-weight:bold; margin:10px; }
